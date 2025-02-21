@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: ZiiZ's Blog
+description: 
+url: https://yz0097.github.io
+avatar: /1.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /QQ20250221-120813.png
 
 # Gems
 plugins:
